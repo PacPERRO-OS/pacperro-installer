@@ -1,0 +1,17 @@
+#TimezoneLabel {
+  color: #FFFFFF;
+  background-color: #000000;
+  border-radius: 4px;
+}
+
+
+.entry_enabled {
+  border-color: Green;
+  border-width: 1px;
+
+}
+.entry_disabled {
+  border-color: Red;
+  border-width: 2px;
+}
+

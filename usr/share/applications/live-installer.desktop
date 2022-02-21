@@ -1,0 +1,14 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=PacPERRO Installer
+Name[az]=PacPERRO Quraşdırıcı
+Name[tr]=PacPERRO Kurucu
+Comment=Install PacPERRO OS
+Comment[az]=PacPERRO ƏS quraşdır
+Comment[tr]=PacPERRO İS kur
+Path=/usr/lib/live-installer/
+Exec=/usr/bin/live-installer
+Icon=system-installer
+Terminal=false
+Categories=Settings;System;
