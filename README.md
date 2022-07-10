@@ -1,2 +1,2 @@
 # pacperro-installer
-PacPERRO OS Live installer (17g based)
+PacPERRO Live installer (17g based)
